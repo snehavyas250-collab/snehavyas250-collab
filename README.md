@@ -34,5 +34,5 @@
 <h3 align="left">🔗 Connect with me</h3>
 
 <p>
-  📧 Email me (snehavyas250@gmail.com) · 💼 LinkedIn (https://www.linkedin.com/in/sneha-vyas-94a0bb3a3?utm_source=share_via&utm_content=profile&utm_medium=member_android) · 🌐 Portfolio (coming soon)
+  📧 Email me (snehavyas250@gmail.com) · 💼 LinkedIn (https://www.linkedin.com/in/sneha-vyas-94a0bb3a3?utm_source=share_via&utm_content=profile&utm_medium=member_android) · 🌐 Portfolio (https://snehavyas250-collab.github.io/responsive-website/)
 </p>
