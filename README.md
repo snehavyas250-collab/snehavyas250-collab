@@ -6,7 +6,7 @@
 - 🎓 I'm a **B.Tech CSE Student** passionate about frontend development
 - 💻 Built **responsive, 100% mobile-friendly websites** using HTML, CSS & JS
 - 🌱 Currently improving my **JavaScript & React** skills
-- 🤝 Open to **internships & collaborations & Remote jobs/Projects**
+- 🤝 Open to **internships, collaborations & Remote jobs/Projects**
 - ⚡ Fun fact: I love turning designs into real websites!
 
 <br/>
