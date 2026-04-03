@@ -14,7 +14,7 @@
 <h3 align="left">🛠️ Languages & Tools</h3>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,c,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,c,vscode,bootstrap,replit,nodejs" />
 </p>
 
 <br/>
